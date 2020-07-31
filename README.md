@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![Full Stack Developer _ Political Strategist _ Data Analyst (1)](https://user-images.githubusercontent.com/54690096/89063592-700fcd80-d336-11ea-8116-1f74df1914bf.png)
+
 ### About Me
 I'm a Junior Fullstack Developer who is passionate about making open-source data more accessible for the public,creating data visualizations and new ideas of technology to elevate marginalized and impacted communities, and building community activists and leaders through political and grassroots organizing and strategic efforts. Some technologies I enjoy working with include HTML, CSS, C#, SQL, Javascript and of course Python. I recently graduated this Spring 2020 from the inagural LaunchCode program which was a pivotal opportunity and moment for me being introduced into the tech community. My interest in the building and creating new opportunities to research, build and learn the importance of how data plays a critical role in the social, political and economic aspects of marginalized and exploited communities lives led me into coding and I am here to stay. 
+
+
